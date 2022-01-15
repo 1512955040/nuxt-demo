@@ -1,3 +1,5 @@
-export default {
-    telemetry: false
-  }
+module.exports={
+    router:{
+        base:'/abc'
+    }
+}
